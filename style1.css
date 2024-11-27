@@ -1,0 +1,24 @@
+.a{
+    background-color: orange;
+    width: 400px;
+    margin: 20px;
+    margin-left: 0px;
+}
+.c{
+    background-color: orange;
+    width: 400px;
+    margin: 20px;
+    border: solid 2px red;
+    padding: 5px 75px 5px 2px;
+}
+.d{
+    background-color: orange;
+    width: 400px;
+    margin: 20px;
+    border-top: 1px gray solid;
+    border-left: 6px black solid;
+    border-right: 2px red solid;
+    border-bottom: 3px yellow solid;
+    margin-left: 100px;
+    padding: 0px 100px 50px 50px;
+}
